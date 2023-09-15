@@ -29,7 +29,7 @@ InvoiceDate   | Data do faturamento (compra)
 UnitPrice     | Preço unitário do produto         
 Country       | País da compra                    
 
-## Lendo e inspecionando os dados:
+## Lendo e inspecionando os dados.
 
 Está etapa foi feita ultilizando o "ProfileReport" para ter um parâmetro geral sobre a base de dados.
 
@@ -37,7 +37,7 @@ Está etapa foi feita ultilizando o "ProfileReport" para ter um parâmetro geral
 
 Com isso é possivel ter um bom parâmetro sobre a base, com informações como Número de Variáveis, Células faltantes em número e em porcentagem, Linhas Duplicadas em número e em porcentagem. Também é possivel ver os tipos das variáveis e a distribuição dos dados.
 
-## Tratamento de Dados(Valores Nulos):
+## Tratamento de Dados(Valores Nulos).
 
 Verificando os valores nulos com o "isna" e utilize a função "sum" para a somar
 a quantidade de nulos.
@@ -56,7 +56,7 @@ a quantidade de nulos.
 
 Aqui temos os valores nulos totalmente zerados, conforme verificamos acima.
 
-## Tratamento de Dados(Valores Duplicados):
+## Tratamento de Dados(Valores Duplicados).
 
 Veridicando se existem dados duplicados através da função "duplicated" e dropando-as.
 
@@ -77,6 +77,14 @@ Após esta etapa temos os valores duplicados removidos e a base sem dados nulos 
 <img src="images/dadosCorrigidos.png">
 
 Podemos observar que os dados foram devidamente corrigidos.
+
+## Tratando Outliers.
+
+**Observando Outliers**
+
+<img src="images/observOutliers.png">
+
+
 
 
 
