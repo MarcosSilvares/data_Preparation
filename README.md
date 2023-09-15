@@ -80,9 +80,21 @@ Podemos observar que os dados foram devidamente corrigidos.
 
 ## Tratando Outliers.
 
-**Observando Outliers**
+**Observando Outliers:**
 
 <img src="images/observOutliers.png">
+
+Atráves da vizualização é possível observar a existência de outliers, ou seja, Valores atípicos e inconsistentes. 
+
+**Removendo Outliers:**
+
+A empresa pede para remover os outliers extremos em que a quantidade do item na compra é superior a 10.000, e o preço unitário é maior que 5.000.
+
+<img src="images/removeOutliers.png">
+
+Logo após a remoção é possível ver que não existem mais outliers e o dataset está limpo para proseguir com a obtenção das métricas solicitada.
+
+<img src="images/observOutliers2.png">
 
 
 
