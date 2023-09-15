@@ -102,6 +102,27 @@ Utilizando as colunas Quantity e UnitPrice e criando uma coluna adicional com o 
 
 <img src="images/TotalPrice.png">
 
+## Plotando Gráficos
+
+A Empresa solicitou que fossem plotados alguns gráficos para obsevarem visualmente algumas métricas.
+
+**Top 10 países com maior valor em vendas**
+
+<img src="images/top10pais_valor_vendas.png">
+
+**Top 10 produtos mais vendidos**
+
+<img src="images/top10produtos_mais_vendidos.png">
+
+**Valor de venda total por mês**
+
+<img src="images/valor_venda_mes.png">
+
+**Valor de venda total por mês e por país (considere apenas os top 10)**
+
+<img src="images/valor_venda_mes_pais.png">
+
+
 
 
 
