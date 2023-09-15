@@ -1,7 +1,7 @@
 # Preparando um dataset para modelagem de dados
 
 
-**Contexto:**
+## Contexto:
 
 Uma empresa do ramo de e-commerce contratou você para levantar os indicadores de
 recência, frequência e ticket médio (RFM) dos seus clientes.
