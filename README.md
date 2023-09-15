@@ -33,6 +33,7 @@ Country       | País da compra
 
 Está etapa foi feita ultilizando o "ProfileReport" para ter um parâmetro geral sobre a base de dados.
 
+<img src="images/ProfileReport.png">
 
 
 
