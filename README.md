@@ -58,6 +58,11 @@ Aqui temos os valores nulos totalmente zerados, conforme verificamos acima.
 
 ## Tratamento de Dados(Valores Duplicados):
 
+Veridicando se existem dados duplicados através da função "duplicated" e dropando-as.
+
+<img src="images/duplicados.png">
+
+Após esta etapa temos os valores duplicados removidos e a base sem dados nulos conforme vimos um pouco acima.
 
 
 
