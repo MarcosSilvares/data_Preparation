@@ -29,13 +29,27 @@ InvoiceDate   | Data do faturamento (compra)
 UnitPrice     | Preço unitário do produto         
 Country       | País da compra                    
 
-## Lendo e inspecionando os dados.
+## Lendo e inspecionando os dados:
 
 Está etapa foi feita ultilizando o "ProfileReport" para ter um parâmetro geral sobre a base de dados.
 
 <img src="images/ProfileReport.png">
 
 Com isso é possivel ter um bom parâmetro sobre a base, com informações como Número de Variáveis, Células faltantes em número e em porcentagem, Linhas Duplicadas em número e em porcentagem. Também é possivel ver os tipos das variáveis e a distribuição dos dados.
+
+## Tratamento de Dados:
+
+**Valores Nulos**
+
+Verificando os valores nulos com o "isna" e utilize a função "sum" para a somar
+a quantidade de nulos.
+
+<img src="images/valoresNulos.png">
+
+É possivel ver 299 Valores Nulos na coluna "Description", 34935 Valores Nulos na coluna "CustomerID" e 1 Valor Nulo na coluna "Country"
+
+
+
 
 
 
