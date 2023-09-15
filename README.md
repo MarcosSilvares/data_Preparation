@@ -1,6 +1,7 @@
 # Preparando um dataset para modelagem de dados
 
 **Contexto**
+
 Uma empresa do ramo de e-commerce contratou você para levantar os indicadores de
 recência, frequência e ticket médio (RFM) dos seus clientes.
 A saber RFM:
@@ -13,6 +14,7 @@ código em Python que gera um output também csv, porém contendo apenas a
 identificação do cliente e métricas RFM.
 
 **Sobre os dados**
+
 A tabela contém informações de compras de um e-commerce em 37 países. Contém a
 identificação do cliente e os dados da compra.
 
