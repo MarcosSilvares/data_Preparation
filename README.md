@@ -48,6 +48,15 @@ a quantidade de nulos.
 
 É possivel ver 299 Valores Nulos na coluna "Description", 34935 Valores Nulos na coluna "CustomerID" e 1 Valor Nulo na coluna "Country"
 
+**Preços unitários e quantidade de produtos iguais ou inferior a 0**
+
+<img src="images/preçoUnitario.png">
+
+**Linhas nulas do CustomerID.**
+
+<img src="images/nulosCustomerID.png">
+
+Aqui temos os valores nulos totalmente zerados, conforme verificamos acima.
 
 
 
