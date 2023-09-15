@@ -35,6 +35,8 @@ Está etapa foi feita ultilizando o "ProfileReport" para ter um parâmetro geral
 
 <img src="images/ProfileReport.png">
 
+Com isso é possivel ter um bom parâmetro sobre a base, com informações como Número de Variáveis, Células faltantes em número e em porcentagem, Linhas Duplicadas em número e em porcentagem. Também é possivel ver os tipos das variáveis e a distribuição dos dados.
+
 
 
 
