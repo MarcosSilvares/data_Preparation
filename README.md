@@ -96,6 +96,13 @@ Logo após a remoção é possível ver que não existem mais outliers e o datas
 
 <img src="images/observOutliers2.png">
 
+## Criando coluna adicional.
+
+Utilizando as colunas Quantity e UnitPrice e criando uma coluna adicional com o preço total da compra. Esta coluna adicional irá nos ajudar a criar as vizualizações solicitadas pela empresa.
+
+<img src="images/TotalPrice.png">
+
+
 
 
 
