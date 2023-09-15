@@ -64,6 +64,22 @@ Veridicando se existem dados duplicados através da função "duplicated" e drop
 
 Após esta etapa temos os valores duplicados removidos e a base sem dados nulos conforme vimos um pouco acima.
 
+## Corrigindo os tipos de dados.
+
+**Tipos de dados:**
+
+<img src="images/tipoDados.png">
+
+É possível observar alguns erros: "InvoiceDate" está como "object" quando deveria estar como "datetime64[ns]" e "CustomerID" está como "float64" quando deveria estar como "int64". Vamos corrigi-los logo em seguida.
+
+**Corrigindo Tipos:**
+
+<img src="images/dadosCorrigidos.png">
+
+Podemos observar que os dados foram devidamente corrigidos.
+
+
+
 
 
 
