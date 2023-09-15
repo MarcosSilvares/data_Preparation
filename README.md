@@ -28,3 +28,13 @@ Quantity      | Quantidade do produto
 InvoiceDate   | Data do faturamento (compra)       
 UnitPrice     | Preço unitário do produto         
 Country       | País da compra                    
+
+**Lendo e inspecionando os dados.**
+
+Está etapa foi feita ultilizando o "ProfileReport" para ter um parâmetro geral sobre a base de dados.
+
+
+
+
+
+
