@@ -1,5 +1,6 @@
 # Preparando um dataset para modelagem de dados
 
+
 **Contexto:**
 
 Uma empresa do ramo de e-commerce contratou você para levantar os indicadores de
@@ -12,6 +13,7 @@ onde ticket médio = média do total gasto por pedido para cada cliente.
 Para isso, vocês receberam uma base de dados (arquivo csv) e devem construir um
 código em Python que gera um output também csv, porém contendo apenas a
 identificação do cliente e métricas RFM.
+
 
 **Sobre os dados:**
 
@@ -28,6 +30,7 @@ Quantity      | Quantidade do produto
 InvoiceDate   | Data do faturamento (compra)       
 UnitPrice     | Preço unitário do produto         
 Country       | País da compra                    
+
 
 **Lendo e inspecionando os dados.**
 
