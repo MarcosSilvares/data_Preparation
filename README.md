@@ -118,7 +118,7 @@ A Empresa solicitou que fossem plotados alguns gráficos para obsevarem visualme
 
 <img src="images/valor_venda_mes.png">
 
-**Valor de venda total por mês e por país (considere apenas os top 10)**
+**Valor de venda total por mês e por país (considerando apenas os top 10)**
 
 <img src="images/valor_venda_mes_pais.png">
 
