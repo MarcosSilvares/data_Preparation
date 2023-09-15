@@ -1,6 +1,5 @@
 # Preparando um dataset para modelagem de dados
 
-
 ## Contexto:
 
 Uma empresa do ramo de e-commerce contratou você para levantar os indicadores de
@@ -14,8 +13,7 @@ Para isso, vocês receberam uma base de dados (arquivo csv) e devem construir um
 código em Python que gera um output também csv, porém contendo apenas a
 identificação do cliente e métricas RFM.
 
-
-**Sobre os dados:**
+## Sobre os dados:
 
 A tabela contém informações de compras de um e-commerce em 37 países. Contém a
 identificação do cliente e os dados da compra.
@@ -31,8 +29,7 @@ InvoiceDate   | Data do faturamento (compra)
 UnitPrice     | Preço unitário do produto         
 Country       | País da compra                    
 
-
-**Lendo e inspecionando os dados.**
+## Lendo e inspecionando os dados.
 
 Está etapa foi feita ultilizando o "ProfileReport" para ter um parâmetro geral sobre a base de dados.
 
