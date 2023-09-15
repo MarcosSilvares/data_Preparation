@@ -37,9 +37,7 @@ Está etapa foi feita ultilizando o "ProfileReport" para ter um parâmetro geral
 
 Com isso é possivel ter um bom parâmetro sobre a base, com informações como Número de Variáveis, Células faltantes em número e em porcentagem, Linhas Duplicadas em número e em porcentagem. Também é possivel ver os tipos das variáveis e a distribuição dos dados.
 
-## Tratamento de Dados:
-
-**Valores Nulos**
+## Tratamento de Dados(Valores Nulos):
 
 Verificando os valores nulos com o "isna" e utilize a função "sum" para a somar
 a quantidade de nulos.
@@ -58,6 +56,7 @@ a quantidade de nulos.
 
 Aqui temos os valores nulos totalmente zerados, conforme verificamos acima.
 
+## Tratamento de Dados(Valores Duplicados):
 
 
 
