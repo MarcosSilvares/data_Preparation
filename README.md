@@ -104,7 +104,7 @@ Utilizando as colunas Quantity e UnitPrice e criando uma coluna adicional com o 
 
 ## Plotando Gráficos
 
-A Empresa solicitou que fossem plotados alguns gráficos para obsevarem visualmente algumas métricas.
+A Empresa solicitou que fossem plotados alguns gráficos para observarem visualmente algumas métricas.
 
 **Top 10 países com maior valor em vendas**
 
@@ -122,8 +122,30 @@ A Empresa solicitou que fossem plotados alguns gráficos para obsevarem visualme
 
 <img src="images/valor_venda_mes_pais.png">
 
+## Cálculo do RFM
 
+**Recência:**
 
+Recência é a diferença em dias da última compra do cliente e da última
+compra disponível no conjunto de dados, que calcularam previamente.
+
+<img src="images/recencia.png">
+
+**Frequência:**
+
+Frequência é a quantidade de compras feitas pelo cliente
+
+<img src="images/frequencia.png">
+
+**Monetário:**
+
+M é o ticket médio, ou seja, a média das compras feitas pelo cliente.
+
+<img src="images/monetario.png">
+
+**Dataframe RFM:**
+
+<img src="images/dataframeRFM.png">
 
 
 
